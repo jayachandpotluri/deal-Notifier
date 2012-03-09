@@ -1,0 +1,9 @@
+1003,1,Mobile Phones,abcat0800000,Best Buy,"http://api.remix.bestbuy.com/v1/products(categoryPath.id=abcat0800000&inStoreAvailability=""true"")?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page="
+1004,2,Cameras & Camcorders,abcat0400000,Best Buy,"http://api.remix.bestbuy.com/v1/products(categoryPath.id=abcat0400000&inStoreAvailability=""true"")?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page="
+6002,3,Laptops & Netbook Computers,abcat0502000,Best Buy,"http://api.remix.bestbuy.com/v1/products(categoryPath.id=abcat0502000&inStoreAvailability=""true"")?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page="
+6003,4,MP3 Players,abcat0201000,Best Buy,"http://api.remix.bestbuy.com/v1/products(categoryPath.id=abcat0201000&inStoreAvailability=""true"")?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page="
+10002,5,Books,abcat0603000,Best Buy,"http://api.remix.bestbuy.com/v1/products(categoryPath.id=abcat0603000&inStoreAvailability=""true"")?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page="
+11001,6,Tablets,pcmcat2090000,Best Buy,http://api.remix.bestbuy.com/v1/products(categoryPath.id=pcmcat209000050006&inStoreAvailability=%22true%22)?format=json&apiKey=45jyjgmpafdfhguxz4sakrsy&sort=dollarSavings.desc&page=
+12001,7,Shoes,,Zappos,"http://api.zappos.com/Search?term=Shoes&limit=10&key=c5ae625dade6ac4752ad95cbf1481336b3774418&sort={""percentOff"":""desc""}&includes=pageCount&filters={""onSale"":[""true""]}&page="
+13001,8,Watches,,Zappos,"http://api.zappos.com/Search?term=Watches&limit=10&key=c5ae625dade6ac4752ad95cbf1481336b3774418&sort={""percentOff"":""desc""}&includes=pageCount&filters={""onSale"":[""true""]}&page="
+13002,9,Eyewear,,Zappos,"http://api.zappos.com/Search?term=Eyewear&limit=10&key=c5ae625dade6ac4752ad95cbf1481336b3774418&sort={""percentOff"":""desc""}&includes=pageCount&filters={""onSale"":[""true""]}&page="
